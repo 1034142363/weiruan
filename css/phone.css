@@ -1,0 +1,182 @@
+@charset "utf-8";
+header{
+	margin: 16px 15px 13px 5px;
+	height: 24px;
+}
+header .phone>img{
+	width: 115px;
+	height: 24px;
+}
+header .phone .cd{
+	padding-right: 30px;
+	background: url(../images/phone_mean.jpg) no-repeat right center;
+}
+header .phone .ss{
+	padding-left: 20px;
+	background: url(../images/phone_searh.jpg) no-repeat left center;
+}
+header .pad_head{
+	display: none;
+}
+header .pc_head{
+	display: none;
+}
+.nav .phone li{
+	background: #1570A5;
+	border-bottom: 1px solid #fff;
+}
+.nav .phone li a{
+	color: #fff;
+	font-size: 16px;
+	line-height: 40px;
+	margin-left: 10px;
+}
+.banner .phone{
+	margin-top: 4px;
+	width: 100%;
+}
+.banner .ban1{
+	width: 100%;
+}
+.banner .ban2{
+	display: none;
+}
+.banner .ban_content{
+	padding-top:10px ;
+	height: 130px;
+	width: 100%;
+	background: #1570A5;
+	color: #fff;
+	line-height: 30px;
+}
+.banner .ban_content p{
+	margin:0 38px;
+}
+.banner .ban_content h1{
+	margin: 0px 38px;
+}
+.banner .ban_content a{
+	color:#fff ;
+	font-size: 12px;
+}
+.con ul li{
+	color: #1585C4;
+}
+.con1 h1{
+	display: none;
+}
+.con ul li img{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.con1 .left ul li{
+	float:left;
+	text-align: center;
+	padding: 10px 10px;
+	margin: 10px 0;
+}
+.con1 .right{
+	display: none;
+}
+.con2 {
+	padding: 24px 5px;
+	background: #1570A5;
+}
+.con2 .en{
+	padding:16px;
+	background: rgba(0,0,0,.4);
+	line-height: 24px;
+	font-size: 22px;
+	color: #fff;
+}
+.con2 .en img{
+	float: left;
+	margin-right: 20px;
+}
+.con2 .bot h1{
+	color: #fff;
+	line-height: 80px;
+}
+.con2 .bot p a{
+	color: #fff;
+	line-height: 30px;
+}
+.con3{
+	background: #EEEEEE;
+	padding-left: 10px;
+}
+.con3 .zuo li{
+	padding:20px 0 20px 40px;
+}
+.con3 .zuo li:nth-child(1){
+	background: url(../images/phone_4_1.jpg) no-repeat left center;
+}
+.con3 .zuo li:nth-child(2){
+	background: url(../images/phone_4_2.jpg) no-repeat left center;
+}
+.con3 .zuo li:nth-child(3){
+	background: url(../images/phone_4_3.jpg) no-repeat left center;
+}
+.con3 .zuo li:nth-child(4){
+	background: url(../images/phone_4.jpg) no-repeat left center;
+}
+.con3 .zuo li:nth-child(5){
+	background: url(../images/phone_5.jpg) no-repeat left center;
+}
+.con3 .zuo li:nth-child(6){
+	background: url(../images/phone_5_6.jpg) no-repeat left center;
+}
+.con3 .zuo li:nth-child(7){
+	background: url(../images/phone_5_7.jpg) no-repeat left center;
+}
+.con3 .zuo li:nth-child(8){
+	background: url(../images/phone_4_5.jpg) no-repeat left center;
+}
+.con_3_1{
+	display: none;
+}
+.con3>p{
+	margin-top: 20px;
+}
+.con3 ol li{
+	line-height: 26px;
+}
+.con3 ol li h3{
+	line-height: 50px;
+	margin-top: 15px;
+}
+.con3 .pad_zuo{
+	line-height: 26px;
+}
+.con3 .pad_zuo h3{
+	line-height: 50px;
+	margin-top: 15px;
+}
+footer{
+	margin: 20px 0 0 0;
+}
+footer ul li{
+	float: left;
+	margin: 10px 20px 10px 0;
+}
+footer .top p{
+	background: url(../images/phone_7_1.jpg) no-repeat left center;
+	padding-left: 30px;
+	height: 25px;
+	line-height: 25px;
+}
+footer .top p a{
+	color: #000;
+}
+footer .top h3{
+	line-height: 40px;
+}
+footer .jingbei{
+	line-height: 26px;
+}
+footer>p{
+	line-height: 26px;
+}
+.con3 .pad_zhichi,.con3 .pad_guanyu{
+	display: none;
+}

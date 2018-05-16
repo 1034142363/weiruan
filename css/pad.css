@@ -1,0 +1,125 @@
+@charset "utf-8";
+header .phone{
+	display: none;
+}
+header .pad_head {
+	display: block;
+}
+header .pad_head input{
+	width: 241px;height: 24px;
+	border: 1px solid #000;
+	background:url(../images/phone_searh.jpg) no-repeat right center; 
+}
+.nav .phone li{
+	float: left;
+	margin-right: 30px;
+	background-color: #fff;
+}
+.nav .phone li a{
+	color: #000;
+}
+.banner .ban1{
+	display: none;
+}
+.banner .ban2{
+	display: block;
+	width: 100%;
+}
+.con ul li{
+	float: left;
+	margin:0 1.6%;
+	width: 30%;
+}
+.con{
+	margin-bottom: 20px;
+}
+.con1{
+	margin-left: 10px;
+}
+.con1 .left h1{
+	display: block;
+	margin: 0px 0 20px 0;
+	font-weight: normal;
+	line-height: 40px;
+}
+.con1 .left ul li{
+	padding: 0 5px;
+	color: #1585C4;
+	text-align: left;
+	font-size: 20px;
+}
+.con1 .right ul{
+	width: 100%;
+}
+.con1 .right ul li{
+	width: 100%;
+	margin-bottom: 40px;
+}
+.con1 .right ul .clearfix img{
+	float: left;
+}
+.con1 .right ul .clearfix p{
+	float: left;
+	margin-left: 24px;
+}
+.con1 .left ul li img{
+	display: none;
+}
+.con1 .right{
+	display: block;
+}
+.con2{
+	display: none;
+}
+.con1 .right ul li h3{
+	line-height: 100px;
+}
+.con1 .right ul li p{
+	line-height: 30px;
+}
+.con_3_1{
+	display: block;
+	padding: 14px;
+	background: #1570A6;
+}
+.con_3{
+	padding: 28px 30px;
+	background: rgba(0,0,0,.3);
+	color: #fff;
+}
+.con_3 h1{
+	line-height: 40px;
+}
+.con_3 p{
+	line-height: 24px;
+	font-size: 18px;
+}
+.con_3 img{
+	float: left;
+	margin-right: 20px;
+}
+.con_2{
+	color: #fff;
+}
+.con_2 h2{
+	line-height: 70px;
+}
+.con_2 span{
+	margin-right: 15px;
+}
+.con_2 a{
+	color: #fff;
+}
+.con3 .pad_zhichi,.con3 .pad_guanyu{
+	display: block;
+}
+.con3 .piao ul{
+	float: left;
+	width: 50%;
+	height: 580px;
+}
+
+.con3 ol{
+	float: right;
+	width: 50%;
+}

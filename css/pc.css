@@ -1,0 +1,95 @@
+@charset "utf-8";
+header .pad_head{
+	display: none;
+}
+header .pc_head{
+	display: block;
+}
+header .pc_head input{
+	width: 379px;height: 24px;
+	border: 2px solid #000;
+	background: url(../images/phone_searh.jpg) no-repeat right center;
+}
+.banner{
+	position: relative;
+	margin-bottom: 25px;
+}
+.banner .ban_content{
+	width: 312px;height: 210px;
+	position: absolute;
+	top:20px;left: 20px;
+}
+.con{
+	margin-bottom: 20px;
+}
+.con1 .left{
+	float: left;
+}
+.con1 .left ul li{
+	float: none;
+}
+.con1 .right{
+	float: right;
+	width: 80%;
+}
+.con1 .right h2{
+	margin-left: 25px;
+}
+.con1 .right ul{
+	width: 100%;
+}
+.con1 .right ul li{
+	float: left;
+	width: 20%;
+	margin:0px 5%;
+}
+.con1 .right ul li img{
+	float: none;
+}
+.con1 .right ul li p{
+	float: none;
+	margin-top: 15px;
+}
+.con1 .right ul .clearfix p{
+	margin-left: 0;
+}
+.con3 .piao ul{
+	width: 25%;
+}
+
+.con3 .piao ol li{
+	float: left;
+	width: 50%;
+}
+
+.con3 .piao ol{
+	float: left;
+}
+.con3 .pad_zuo{
+	width:25%;
+	float: right;
+}
+footer{
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+footer .top p{
+	float:left;
+}
+footer .top h3{
+	float: right;
+}
+footer .jingbei {
+	float: left;
+}
+footer .jingbei p{
+	float: left;
+	margin-right: 20px;
+}
+footer ul li{
+	margin: 0 10px;
+}
+footer>p{
+	float: right;
+	margin-top: -26px;
+}
